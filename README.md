@@ -24,7 +24,21 @@
 To address the above limitations, we modified the data by: 
 1. We created and added in the population data set. This helped with adjusting the hate-crime counts for population size and allowed us to identify which counties have a higher relative risk rather than just higher totals
 2. We divided the columns of the data set into different categories:Race, Religion, Sex, and Gender. We also removed “Multiple Counties” rows. This helped us to organize the data and made it better suited to use for answering our questions.
-   
+# Question 1: 
+Which counties, relative to population size, are people most likely to experience race, religion, gender, and sex-based hate crimes in New York State?
 
+Why is this important? 
+- Looking at how different types of hate crimes vary by county is important because it helps identify where particular groups are at higher risk, supports targeted policy interventions, and allows us to explore how county-level characteristics may be associated with hate crime patterns.
+### Race based Hate Crimes per Capita 
+<img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/1344a7d4-fa19-47f0-a9e7-b51b1c075e5b" />
 
+### Gender-based Hate Crimes per Capita
+County with the highest per capita gender based crime: 
+- Cortland County
+   ~4.17 crimes per 10,000 people, with a population of 46,809 as of 2020
+
+County with the lowest per capita gender based crime: 
+- 30 counties all had 0 hate crimes
+
+We also noted that there is ambuguity in what defines a gender-biased crime which could account for the low rates in some counties. A lot of gender biased crime is classifed as Domestic Violence or various other categories instead of as Gender-biased and therefore wouldn't show up in our data. It is likely that counties that note 0 instances of gender-biased crime do actually have some gender related cases that are categorized differently. 
 
