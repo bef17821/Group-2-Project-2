@@ -105,6 +105,8 @@ Why is this important?
 
 This visualization shows hate crime totals over time (2010–2022) for every county in New York State on one combined line chart. 
 Each line represents a different county, and the trend lines indicate whether that county’s incidents are generally increasing, decreasing, or steady. 
+Because the chart accounts for ALL counties in the state of New York, with the exemption of Yates county, the chart is extremely busy, especially around the lower levels of hate crimes.
+This makes the chart visually cluttered and difficult to interpret. We decided to filter our dataset to show only the Top 3 counties with the strongest upward trends and the Bottom 3 counties with the lowest overall hate-crime totals.
 
 ### Top 3 and Bottom 3 Analysis: 
 Top 3: 
