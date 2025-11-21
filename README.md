@@ -38,7 +38,7 @@ County with the highest per capita race-based crime:
 - Hamilton County
   ~6.3 per 10,000 people with the lowest population in NY (5,107 as of 2020)
 
-County with the highest per capita race-based crime:
+County with the lowest per capita race-based crime:
 - Montgomery County
   ~2.2 per 10,000 people, with a population of 49,532 as of 2020 (46 largest county out of 62 in New York)
 
@@ -54,3 +54,14 @@ County with the lowest per capita gender based crime:
 
 We also noted that there is ambuguity in what defines a gender-biased crime which could account for the low rates in some counties. A lot of gender biased crime is classifed as Domestic Violence or various other categories instead of as Gender-biased and therefore wouldn't show up in our data. It is likely that counties that note 0 instances of gender-biased crime do actually have some gender related cases that are categorized differently. 
 
+### Religion-based Hate Crimes per Capita
+
+County with the highest per capita Relgion-based crimes: 
+- New York county 
+  ~4.4 crimes per 10,000 people. This is the 3rd most populous county in New York. 
+
+County with the lowest per capita religion-based hate crimes:
+- Fulton, Genesee, Hamilton, Lewis, Schuyler, Steuben, Wyoming all had 0
+- Of the counties that had at least one instance, Chatauqua County had the lease with ~.07701 crimes per 10,000 people. 
+
+Relgion based crimes were the least reported category of crime in our data. We did further research and found that there isn't much variation in relgion in New york, and the counties that reported no or very few religion-based hate crimes tended to have large populations of people who shared that same religion.
