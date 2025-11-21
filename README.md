@@ -1,5 +1,16 @@
 # Group-2-Project-2
 
+# MIST-4610-Group-Project-1
+
+## Team Name
+62755 Group 2
+
+## Team Members 
+1. Brooke Francis [@bef17821] (https://github.com/bef17821)
+
+2. Sophia Tran [@sophiaytran] (https://github.com/sophiaytran)
+3. Pranav Saravanakumar [@Pranav-23-23] (https://github.com/Pranav-23-23)
+
 # Hate Crimes in New York by County and Bias
 - Hate Crime and Bias Dataset Link: https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2010
 - Population Dataset Link: https://1drv.ms/x/c/7ba90ea3105cae52/EXf_nuqbDOxFsstgviZ4P1IBm4whTDxF4D9MaslUPIJfgA?e=cgBNs5
