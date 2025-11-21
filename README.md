@@ -93,3 +93,26 @@ This area covers Manhattan and has a population of ~1.65 million
 - Race-Based hate crimes were most prevalent overall
 - Religion-Based hate crimes and Sexual-Orientation based hate crimes showed similar distribution patterns
 - This data could help government’s customize their responses to hate crimes in different regions
+
+# Question 2
+Which New York counties show historical trends that suggest future increases in hate crimes, and how should the government allocate resources as a result? Alternatively, what counties suggest little to no change?
+
+Why is this important?
+- This question shifts the focus from simply describing patterns to understanding which counties may face growing risks in the future.  By identifying counties with clear upward historical trends, policymakers and leaders can proactively allocate resources, adjust prevention programs, and provide early intervention in areas where hate crimes are escalating. 
+
+### Overall Analysis: 
+<img width="1070" height="762" alt="image" src="https://github.com/user-attachments/assets/c114e345-2075-4edf-9074-9dfb5b8b0614" />
+
+This visualization shows hate crime totals over time (2010–2022) for every county in New York State on one combined line chart. 
+Each line represents a different county, and the trend lines indicate whether that county’s incidents are generally increasing, decreasing, or steady. 
+
+### Top 3 and Bottom 3 Analysis: 
+Top 3: 
+<img width="870" height="726" alt="image" src="https://github.com/user-attachments/assets/fd455af4-d99c-4933-85bd-855827f8a9fc" />
+
+The top three counties with the strongest upward trends were Kings, New York County, and Queens. All three show clear year-over-year increases, along with multiple spikes in recent years. These upward-sloping lines suggest these counties are the most likely to face future increases if current patterns continue.
+
+Bottom 3: 
+<img width="704" height="778" alt="image" src="https://github.com/user-attachments/assets/9726cbea-925b-4301-9dae-ac047a4f0829" />
+
+The bottom three counties were Lewis, Schuyler, and Wyoming. Their lines are almost completely flat, with counts often at zero or one. There’s no indication of growth or meaningful change over time.
