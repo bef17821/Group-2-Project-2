@@ -72,7 +72,7 @@ County with the lowest per capita religion-based hate crimes:
 - Fulton, Genesee, Hamilton, Lewis, Schuyler, Steuben, Wyoming all had 0
 - Of the counties that had at least one instance, Chatauqua County had the lease with ~.07701 crimes per 10,000 people. 
 
-Relgion based crimes were the least reported category of crime in our data. We did further research and found that there isn't much variation in relgion in New york, and the counties that reported no or very few religion-based hate crimes tended to have large populations of people who shared that same religion. Religion is often also less visible than race which could also account for the lower rates. 
+Relgion based crimes were the least reported category of crime in our data. We did further research and found that there isn't much variation in religion in mant areas of New york, and the counties that reported no or very few religion-based hate crimes tended to have large populations of people who shared that same religion. Religion is often also less visible than race which could also account for the lower rates. 
 
 ### Sexual-Orientation-based Hate Crimes per Capita
 <img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/05e2c0ce-cb84-424a-89e8-1b35a26fcb57" />
