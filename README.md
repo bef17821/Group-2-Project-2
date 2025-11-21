@@ -1,7 +1,5 @@
 # Group-2-Project-2
 
-# MIST-4610-Group-Project-1
-
 ## Team Name
 62755 Group 2
 
