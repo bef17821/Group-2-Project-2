@@ -30,9 +30,21 @@ Which counties, relative to population size, are people most likely to experienc
 Why is this important? 
 - Looking at how different types of hate crimes vary by county is important because it helps identify where particular groups are at higher risk, supports targeted policy interventions, and allows us to explore how county-level characteristics may be associated with hate crime patterns.
 ### Race based Hate Crimes per Capita 
-<img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/1344a7d4-fa19-47f0-a9e7-b51b1c075e5b" />
+<img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/da3425af-5ce3-4fcd-98e1-3bacc3bab643" />
+
+Overall, this was the most prevalent form of crime that we looked at. 
+
+County with the highest per capita race-based crime: 
+- Hamilton County
+  ~6.3 per 10,000 people with the lowest population in NY (5,107 as of 2020)
+
+County with the highest per capita race-based crime:
+- Montgomery County
+  ~2.2 per 10,000 people, with a population of 49,532 as of 2020 (46 largest county out of 62 in New York)
 
 ### Gender-based Hate Crimes per Capita
+<img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/1344a7d4-fa19-47f0-a9e7-b51b1c075e5b" />
+
 County with the highest per capita gender based crime: 
 - Cortland County
    ~4.17 crimes per 10,000 people, with a population of 46,809 as of 2020
