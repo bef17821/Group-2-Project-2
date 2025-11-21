@@ -128,4 +128,8 @@ The bottom three counties were Lewis, Schuyler, and Wyoming. Their lines are alm
   - Our hypothesis for why these counties have experienced multiple recent spikes is that the higher population density in these counties increase the number of interpersonal interactions and likelihood of conflict, which consequently lead to a higher number of hate crime reports
 - The bottom 3 counties show almost no incidents across the entire period, and their trend lines are flat. They do not suggest future increases, based on historical behavior.
 - This contrast supports a predictive insight and could help allocate resources
-  - Instead of forecasting future numbers, the analysis identifies which counties are likely at rising risk based on existing patterns. 
+  - Instead of forecasting future numbers, the analysis identifies which counties are likely at rising risk based on existing patterns.
+ 
+## Tableau Packaged Workbook 
+The packaged workbook containing the visualizations shown above is attached to this repository.
+
