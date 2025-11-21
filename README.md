@@ -16,5 +16,15 @@ Population Dataset Link: https://1drv.ms/x/c/7ba90ea3105cae52/EXf_nuqbDOxFsstgvi
 - It has 16 columns and 62 rows
 - Data types include String (county), Int (yearly populations), Decimal (population average)
 - We created this data set by compiling data from different excel sheets on the US Census Bureau website
-# 
+# Limitations in our Dataset:
+1. Our original data set did not include any population data, so the first visualizations we made were essentially just population heatmaps and were not very helpful in     comparisons among counties. 
+2. The data set also contained 40+ columns, some of which were not helpful for answering descriptive and prescriptive questions. For example, some rows said crime occurred in  “Multiple Counties”, but did not specify specific counties. The amount of information made the data hard to navigate at first. 
+3. The original data set did not have any information on Yates county, so this county appears as grey on our visualizations.
+# Modifications to our Dataset: 
+To address the above limitations, we modified the data by: 
+1. We created and added in the population data set. This helped with adjusting the hate-crime counts for population size and allowed us to identify which counties have a higher relative risk rather than just higher totals
+2. We divided the columns of the data set into different categories:Race, Religion, Sex, and Gender. We also removed “Multiple Counties” rows. This helped us to organize the data and made it better suited to use for answering our questions.
+   
+
+
 
