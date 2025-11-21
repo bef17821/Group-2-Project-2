@@ -108,11 +108,22 @@ Each line represents a different county, and the trend lines indicate whether th
 
 ### Top 3 and Bottom 3 Analysis: 
 Top 3: 
+
 <img width="870" height="726" alt="image" src="https://github.com/user-attachments/assets/fd455af4-d99c-4933-85bd-855827f8a9fc" />
 
 The top three counties with the strongest upward trends were Kings, New York County, and Queens. All three show clear year-over-year increases, along with multiple spikes in recent years. These upward-sloping lines suggest these counties are the most likely to face future increases if current patterns continue.
 
-Bottom 3: 
+Bottom 3:
+
 <img width="704" height="778" alt="image" src="https://github.com/user-attachments/assets/9726cbea-925b-4301-9dae-ac047a4f0829" />
 
 The bottom three counties were Lewis, Schuyler, and Wyoming. Their lines are almost completely flat, with counts often at zero or one. There’s no indication of growth or meaningful change over time.
+
+## Question 2 Analysis: 
+- Overall statewide trends are highly uneven across counties 
+  - The chart showing all counties shows that while many counties stay consistently low, a few counties have clear upward trajectories but the visualization is extremely busy, which confirms that statewide averages hide important local differences
+- Kings, New York County, and Queens stand out with sustained increases over time 
+  - Our hypothesis for why these counties have experienced multiple recent spikes is that the higher population density in these counties increase the number of interpersonal interactions and likelihood of conflict, which consequently lead to a higher number of hate crime reports
+- The bottom 3 counties show almost no incidents across the entire period, and their trend lines are flat. They do not suggest future increases, based on historical behavior.
+- This contrast supports a predictive insight and could help allocate resources
+  - Instead of forecasting future numbers, the analysis identifies which counties are likely at rising risk based on existing patterns. 
