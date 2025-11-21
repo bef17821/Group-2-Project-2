@@ -7,13 +7,9 @@
 
 ## Team Members 
 1. Brooke Francis [@bef17821] (https://github.com/bef17821)
-
 2. Sophia Tran [@sophiaytran] (https://github.com/sophiaytran)
 3. Pranav Saravanakumar [@Pranav-23-23] (https://github.com/Pranav-23-23)
 
-# Hate Crimes in New York by County and Bias
-- Hate Crime and Bias Dataset Link: https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2010
-- Population Dataset Link: https://1drv.ms/x/c/7ba90ea3105cae52/EXf_nuqbDOxFsstgviZ4P1IBm4whTDxF4D9MaslUPIJfgA?e=cgBNs5
 # Data Set Overview:
 ## Hate Crime and Bias Dataset:
 - Our data set includes hate crime records for every county in New York State, annually, from 2010 through 2022
@@ -66,6 +62,7 @@ County with the lowest per capita gender based crime:
 We also noted that there is ambuguity in what defines a gender-biased crime which could account for the low rates in some counties. A lot of gender biased crime is classifed as Domestic Violence or various other categories instead of as Gender-biased and therefore wouldn't show up in our data. It is likely that counties that note 0 instances of gender-biased crime do actually have some gender related cases that are categorized differently. 
 
 ### Religion-based Hate Crimes per Capita
+<img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/b58f234c-5c73-4d24-8a62-480185dd34d1" />
 
 County with the highest per capita Relgion-based crimes: 
 - New York county 
@@ -75,4 +72,24 @@ County with the lowest per capita religion-based hate crimes:
 - Fulton, Genesee, Hamilton, Lewis, Schuyler, Steuben, Wyoming all had 0
 - Of the counties that had at least one instance, Chatauqua County had the lease with ~.07701 crimes per 10,000 people. 
 
-Relgion based crimes were the least reported category of crime in our data. We did further research and found that there isn't much variation in relgion in New york, and the counties that reported no or very few religion-based hate crimes tended to have large populations of people who shared that same religion.
+Relgion based crimes were the least reported category of crime in our data. We did further research and found that there isn't much variation in relgion in New york, and the counties that reported no or very few religion-based hate crimes tended to have large populations of people who shared that same religion. Religion is often also less visible than race which could also account for the lower rates. 
+
+### Sexual-Orientation-based Hate Crimes per Capita
+<img width="970" height="706" alt="image" src="https://github.com/user-attachments/assets/05e2c0ce-cb84-424a-89e8-1b35a26fcb57" />
+
+Count with the highest sexual orientation based crimes: 
+- New York County 
+  ~2.23 crimes per 10,000 people
+  Also had the most religious hate crimes
+
+Lowest: 15 counties all had 0 hate crimes
+- Of the counties that reported crime, Putnam County had the least with ~0.1011 crimes per 10,000 people.
+
+Similarly to religion, sexual orientation isn't always visible which could account for the lower rates of sexual-orientation based crime. 
+
+## Overall Analysis for Question 1: 
+- Overall, New York county was the highest in both sexual orientation and religion based hate crimes per capita
+This area covers Manhattan and has a population of ~1.65 million
+- Race-Based hate crimes were most prevalent overall
+- Religion-Based hate crimes and Sexual-Orientation based hate crimes showed similar distribution patterns
+- This data could help government’s customize their responses to hate crimes in different regions
